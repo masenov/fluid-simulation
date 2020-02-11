@@ -1,6 +1,8 @@
 # fluid-simulation
 
 
+Accompanying code for "Active Localization of Gas Leaks using Fluid Simulation"
+
 Based on Jos Stam's paper Real-Time Fluid Dynamics for Games and its implementation found here:
 https://github.com/topaz1008/canvas-fluid-solver
 
